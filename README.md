@@ -10,3 +10,4 @@ https://roadmap.sh/projects/js-expense-summary
 https://roadmap.sh/projects/js-cart-total-calculator
 https://roadmap.sh/projects/js-quiz-score-calculator
 https://roadmap.sh/projects/js-json-response-normalizer
+https://roadmap.sh/projects/js-password-rule-checker
